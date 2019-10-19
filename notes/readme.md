@@ -569,7 +569,7 @@ Usando la **readFileSync** que lee los datos de manera sincrona.
 ```js
 const fs = require('fs');
 
-/*Cuando usamos la manera asincrona es muy recomendable usar un bloque
+/*Cuando usamos la manera sincrona es muy recomendable usar un bloque
 try catch porque es la manera en que podemos capturar un error
 */
 
